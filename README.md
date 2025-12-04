@@ -1,6 +1,7 @@
-**NBA Analysis Project**
-**Overview**
-This project presents a detailed analysis of NBA data, focusing on player statistics, salary distribution, team performance, and other critical factors. Through various visualizations, we aim to provide insights into player profiles, team dynamics, and the impacts of league changes. The project uses Tableau for data visualization to examine historical performance, player profiles, and trends within the NBA.
+**NBA Player Performance & Salary Analytics**
+**A comprehensive exploratory analysis of NBA players, salaries, positions, and team trends**
+
+This project analyzes NBA player performance, salary trends, positional roles, and historical team insights using multi-source datasets. It includes data cleaning, feature engineering, and visualization through Tableau dashboards and summarized reporting.
 
 **Visualizations**
 1. **Team Performance Analysis**
